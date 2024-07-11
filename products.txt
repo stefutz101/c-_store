@@ -1,0 +1,7 @@
+1,Tricou H&M,H&M,0,15.99,59.99
+2,Pantaloni H&M,H&M,0,20.99,60.3
+3,Blugi H&M,H&M,0,84.4,90
+4,Pantaloni H&M 2,H&M,0,60.3,89.5
+5,Tricou ZARA,ZARA,0,39.99,0
+6,Pantaloni ZARA,ZARA,0,65.2,100.8
+7,Blugi ZARA,ZARA,0,150,0
