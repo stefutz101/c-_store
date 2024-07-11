@@ -14,8 +14,8 @@ The application is designed to be run from the command line. Users can interact 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/command-line-store.git
-cd command-line-store
+git clone https://github.com/stefutz101/c_store.git
+cd c_store
 ```
 
 2. Compile the application:
